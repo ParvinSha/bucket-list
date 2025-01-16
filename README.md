@@ -79,7 +79,6 @@ Skapa en script.js-fil för att lägga till funktionalitet. Följande steg guida
 * Starta med en tom array som håller alla aktiviteter
 * Skapa en funktion som ritar upp listan dynamiskt i DOM
 * Lägg till en eventlyssnare på formuläret för att lägga till nya aktiviteter
-* Skapa en funktion som rensar din lista när sidan laddas om
 
 
 ## **Level-ups**
