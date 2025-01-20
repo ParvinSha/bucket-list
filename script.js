@@ -21,6 +21,9 @@
 
 
 
+
+
+
 // Håller aktiviteter
 let bucketList = [];
 
