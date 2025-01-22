@@ -21,9 +21,12 @@
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 2491f914e383b52601d50c245d7db62ef1a971be
 // Håller aktiviteter
 let bucketList = [];
 
